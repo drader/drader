@@ -5,8 +5,6 @@
 <h6 align="left"> Simulation & Modeling: (Matlab, Simulink, LTSpice, TCAD, Autocad) </h6>
 <h6 align="left"> Research: Nanoscience, Nanoelectronics, Quantum Dot Synthesis & Characterization</h6>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="drader" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader" alt="drader" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science & Data Processing**
@@ -85,3 +83,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/lab
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drader&count_private=true&include_all_commits=true" alt="drader" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drader&count_private=true" alt="drader" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="drader" /> </p>
