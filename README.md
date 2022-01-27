@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C, Java, Python, Matlab**
 
-- 📫 How to reach me **oguzgencer@gmail.com**
+- 📫 How to reach me here --> **oguzgencer@gmail.com**  and also here --> <a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="drader87" height="24" width="24" /></a> [drader87](https://join.skype.com/invite/iuE7aMa5Ry2t)
 
 - ⚡ My motto : **Bees don't waste time trying to explain to flies that honey is better than shit.**
 
@@ -23,10 +23,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/oguzgencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="oguzgencer" height="40" width="40" /></a>
 <a href="https://twitter.com/drader87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drader87" height="40" width="40" /></a>
-<a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="drader87" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/drader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drader" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/2009499/oguz-gencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drader" height="40" width="40" /></a>
-<a href="https://hashnode.com/@Drader" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="drader" height="40" width="50" /></a>
+<a href="https://hashnode.com/@Drader" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="drader" height="45" width="45" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -77,7 +76,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/ard
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 <a href="https://www.ni.com/en-tr/shop/labview.html" target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="labview" width="50" height="50"/> </a>
-<a href="https://hashnode.com/@Drader" target="blank" style="fill:#A5915F;"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/altiumdesigner.svg" /></a>
+<a href="https://www.altium.com" target="blank" style="fill:#A5915F;"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/altiumdesigner.svg" /></a>
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drader&count_private=true&include_all_commits=true" alt="drader" /></p>
