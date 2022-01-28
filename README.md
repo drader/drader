@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Oğuz Gençer</h1>
 <h3 align="center">An engineer, researcher and scientist</h3>
-<h6 align="left"> Hardware: (Altium, Xilinx, uC/uP, FPGAs) </h6>
-<h6 align="left"> Software: (C, Java, Python) </h6>
-<h6 align="left"> Simulation & Modeling: (Matlab, Simulink, LTSpice, TCAD, Autocad) </h6>
-<h6 align="left"> Research: Nanoscience, Nanoelectronics, Quantum Dot Synthesis & Characterization</h6>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/2417615/151536148-a9ff007b-86ec-4744-b01d-3448a3426ba9.svg" top="20px" width="400"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader" alt="drader" /></a> </p>
+<div>
+   <p align="left">
+      <ul>
+         <li><b>Hardware:</b> (Altium, Xilinx, uC/uP, FPGAs</li><br>			 <li><b>Software:</b> (C, Java, Python)</li><br>
+         <li><b>Simulation & Modeling:</b> (Matlab, Simulink, LTSpice, TCAD, Autocad)</li><br>
+         <li><b>Research:</b> Nanoscience, Nanoelectronics, Quantum 		Dot Synthesis & Characterization</li>
+      </ul>
+   </p>
+</div>
+
+<p align="center"> <br> <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader" alt="drader" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science & Data Processing**
 
@@ -15,7 +22,7 @@
 
 - 💬 Ask me about **C, Java, Python, Matlab**
 
-- 📫 How to reach me here --> **oguzgencer@gmail.com**  and also here --> <a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="drader87" height="24" width="24" /></a> [drader87](https://join.skype.com/invite/iuE7aMa5Ry2t)
+- 📫 How to reach me on **oguzgencer@gmail.com**  and <a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="drader87" height="24" width="24" /></a> [drader87](https://join.skype.com/invite/iuE7aMa5Ry2t)
 
 - ⚡ My motto : **Bees don't waste time trying to explain to flies that honey is better than shit.**
 
@@ -83,4 +90,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/lab
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drader&count_private=true" alt="drader" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="drader" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="drader" /> </p>
