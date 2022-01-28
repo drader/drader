@@ -86,8 +86,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/lab
 <a href="https://www.altium.com" target="blank" style="fill:#A5915F;"><img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/altiumdesigner.svg" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drader&count_private=true&include_all_commits=true" alt="drader" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github.com/drader/github-stats/blob/master/generated/overview.svg" alt="drader" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drader&count_private=true" alt="drader" /></p>
+<p align="center"><img align="center" src="https://github.com/drader/github-stats/blob/master/generated/languages.svg" alt="drader" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="drader" /> </p>
