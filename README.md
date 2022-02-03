@@ -24,12 +24,11 @@
 
 - 💬 Ask me about **C, Java, Python, Matlab**
 
-- 📫 How to reach me on &nbsp; <a href="mailto:oguzgencer@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="24" /></a> &nbsp; | &nbsp; <a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="skype" height="24" /></a> --> **drader87**
+- 📫 How to reach me on &nbsp; <a href="mailto:oguzgencer@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="24" /></a> &nbsp; | &nbsp; <a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="skype" height="24" /></a> --> **drader87** &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/oguzgencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="24" /></a>
 - ⚡ My motto : **Bees don't waste time trying to explain to flies that honey is better than shit.**
 
-<h3 align="center">Let's Connect!🖖</h3>
+<h3 align="center">Let's do brainstorm together, follow my feeds! 🖖</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/oguzgencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="oguzgencer" height="40"/></a>
 <a href="https://twitter.com/drader87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drader87" height="40"/></a>
 <a href="https://www.hackerrank.com/drader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drader" height="40"/></a>
 <a href="https://stackoverflow.com/users/2009499/oguz-gencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drader" height="40"/></a>
