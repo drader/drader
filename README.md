@@ -31,7 +31,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/oguzgencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="oguzgencer" height="40"/></a>
 <a href="https://twitter.com/drader87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drader87" height="40"/></a>
-<a href="skype:drader87?add" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="drader87" height="40"/></a>
 <a href="https://www.hackerrank.com/drader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drader" height="40"/></a>
 <a href="https://stackoverflow.com/users/2009499/oguz-gencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drader" height="40"/></a>
 <a href="https://hashnode.com/@Drader" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="drader" height="40"/></a></p>
