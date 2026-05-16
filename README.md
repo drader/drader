@@ -67,10 +67,6 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
 ### 📈 GitHub Metrics
 
 <p align="center"><img src="./metrics.svg" alt="metrics"/></p>
-<p align="center">
-  <img width="49%" src="./metrics.languages.svg" alt="languages"/>
-  <img width="49%" src="./metrics.habits.svg" alt="habits"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader&row=1&column=7&no-bg=true" alt="trophies"/></a>
