@@ -1,91 +1,81 @@
 <h1 align="center">Hi 👋, I'm Oğuz Gençer</h1>
-<h3 align="center">An engineer, researcher and scientist</h3>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/2417615/151536148-a9ff007b-86ec-4744-b01d-3448a3426ba9.svg" top="20px" width="400"/>
+<h3 align="center">Electronics Engineer · PhD Researcher in Nanoscience & Biomedical Engineering @ İTÜ</h3>
 
-<div>
-   <p align="left">
-      <ul>
-         <li><b>Hardware:</b> (Altium, Xilinx, uC/uP, FPGAs</li><br>			 <li><b>Software:</b> (C, Java, Python)</li><br>
-         <li><b>Simulation & Modeling:</b> (Matlab, Simulink, LTSpice, TCAD, Autocad)</li><br>
-         <li><b>Research:</b> Nanoscience, Nanoelectronics, Quantum 		Dot Synthesis & Characterization</li>
-      </ul>
-   </p>
-</div>
-
-<p align="center"> <br> <br> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader" alt="drader" /></a> </p>
-
-- 🌱 I’m currently learning **Data Science & Data Processing**
-
-- 👯 I’m looking to collaborate on **Simulation, Modeling & Data Visualization Projects**
-
-- 👨‍💻 All of my public projects are available at <a href="https://github.com/drader" target="blank"><img align="center" src="https://user-images.githubusercontent.com/2417615/151570655-ea3f788a-4f70-47e2-9c42-889b2804232d.png" alt="github" height="24" /></a> For private repos please contact with me
-
-- 👨🏻‍🔬 My researches and publications at &nbsp; <a href="https://www.researchgate.net/profile/Oguz-Gencer-2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" height="24" /></a> &nbsp; | &nbsp; <a href="https://scholar.google.com/citations?hl=tr&user=NghI6PkAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="GoogleScholar" height="24" /></a> &nbsp; | &nbsp; <a href="https://orcid.org/0000-0001-7460-9984" target="blank"><img align="center" src="https://libapps.s3.amazonaws.com/accounts/136240/images/iD_icon.gif" alt="ORCID" height="24" /></a>
-
-- 💬 Ask me about **C, Java, Python, Matlab**
-
-- 📫 How to reach me on &nbsp; <a href="mailto:oguzgencer@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="24" /></a> &nbsp; | &nbsp; <a href="https://join.skype.com/invite/iuE7aMa5Ry2t" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" alt="skype" height="24" /></a> (**drader87**) &nbsp; | &nbsp; <a href="https://www.linkedin.com/in/oguzgencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="24" /></a>
-- ⚡ My motto : **Bees don't waste time trying to explain to flies that honey is better than shit.**
-
-<h3 align="center">Let's do brainstorm together, follow my feeds! 🖖</h3>
 <p align="center">
-<a href="https://twitter.com/drader87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drader87" height="40"/></a>
-<a href="https://www.hackerrank.com/drader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="drader" height="40"/></a>
-<a href="https://stackoverflow.com/users/2009499/oguz-gencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="drader" height="40"/></a>
-<a href="https://hashnode.com/@Drader" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="drader" height="40"/></a></p>
+  <a href="https://scholar.google.com/citations?hl=tr&user=NghI6PkAAAAJ"><img src="https://img.shields.io/badge/-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://www.researchgate.net/profile/Oguz-Gencer-2"><img src="https://img.shields.io/badge/-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+  <a href="https://orcid.org/0000-0001-7460-9984"><img src="https://img.shields.io/badge/-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://www.linkedin.com/in/oguzgencer"><img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:oguzgencer@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>
-<a href="https://www.ubuntu.org/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40"/></a>
-<a href="https://www.vscode.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="40"/></a>
-<a href="https://www.visualstudio.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/></a>
-<a href="https://www.mathworks.com" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" height="40"/></a> 
-<a href="https://www.android.com/en" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a>
-<a href="https://github.com/drader" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40"/></a>
-<a href="https://gitlab.com/drader" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" height="40"/></a>
-<a href="https://www.svn.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" alt="svn" height="40"/></a>
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Automation/ifttt.svg" alt="ifttt" height="40"/></a>
-<a href="https://zapier.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Automation/zapier.svg" alt="zapier" height="40"/></a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" height="40"/></a>
-<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="40"/></a>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/></a>
-<a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" height="40"/></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="40"/></a>
-<a href="https://www.ni.com/en-tr/shop/labview.html" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="labview" height="40"/></a>
-<a href="https://hashnode.com/@Drader" target="blank" style="fill:#A5915F;"><img height="40" src="https://user-images.githubusercontent.com/2417615/151577981-97717eec-df35-4e04-a41b-18be0740fc72.png" /></a></p>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/2417615/151536148-a9ff007b-86ec-4744-b01d-3448a3426ba9.svg"/>
 
-<p align="center">&nbsp;<img align="center" src="https://github.com/drader/github-stats/blob/master/generated/overview.svg" alt="drader" /></p>
+### 🔬 Research Focus
 
-<p align="center"><img align="center" src="https://github.com/drader/github-stats/blob/master/generated/languages.svg" alt="drader" /></p>
+PhD work on **conductive nanofiber coatings for neural microelectrode arrays (MEA)** — dual-use electrical + optical electrode materials (PEDOT:PSS, carbon nanomaterials, electrospun scaffolds) for low-impedance neural recording and optical microscopy compatibility.
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="drader" /> </p>
+- 🧪 **Domains:** Nanoelectronics · Quantum dot synthesis & characterization · Neural interfaces
+- 🛠️ **Hardware:** Altium · Xilinx FPGAs · µC/µP design
+- 💻 **Software:** C · Java · Python
+- 📊 **Simulation & modeling:** MATLAB/Simulink · LTspice · TCAD · AutoCAD
+- 👯 Open to collaboration on **simulation, modeling & scientific data visualization**
+- 📌 Public projects below — for private/research repos, feel free to reach out.
+
+### 🧰 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+
+**Scientific Computing & Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Hardware & EDA**
+
+![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
+
+**Simulation & Modeling**
+
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=mathworks&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-9B1B30?style=flat&logo=analogdevices&logoColor=white)
+![TCAD](https://img.shields.io/badge/Sentaurus_TCAD-2A2A2A?style=flat&logo=synopsys&logoColor=white)
+
+**Tools & Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+
+### 📈 GitHub Metrics
+
+<p align="center"><img src="./metrics.svg" alt="metrics"/></p>
+<p align="center">
+  <img width="49%" src="./metrics.languages.svg" alt="languages"/>
+  <img width="49%" src="./metrics.habits.svg" alt="habits"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader&row=1&column=7&no-bg=true" alt="trophies"/></a>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="views"/></p>
+
+<p align="center"><b>⚡ My motto:</b> <i>"Bees don't waste time trying to explain to flies that honey is better than shit."</i></p>

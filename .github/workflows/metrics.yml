@@ -1,0 +1,82 @@
+name: Metrics
+
+on:
+  # Profil kartlarını günde bir kez yeniler
+  schedule:
+    - cron: "0 6 * * *"
+  # Manuel tetikleme (Actions sekmesinden "Run workflow")
+  workflow_dispatch:
+  # README/workflow güncellendiğinde yeniden üret
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  # 1) Genel özet kartı — istatistik, aktivite, başarılar
+  overview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: drader
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Istanbul
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_traffic: yes
+
+  # 2) Diller + üretkenlik saatleri (detaylı yazılım profili)
+  languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: drader
+          filename: metrics.languages.svg
+          template: classic
+          base: ""
+          config_timezone: Europe/Istanbul
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming, data
+          plugin_languages_colors: github
+          plugin_languages_limit: 12
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+
+  # 3) Kodlama alışkanlıkları — saat dağılımı ve isometric takvim
+  habits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: drader
+          filename: metrics.habits.svg
+          template: classic
+          base: ""
+          config_timezone: Europe/Istanbul
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
