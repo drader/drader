@@ -64,9 +64,16 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
-### 📈 GitHub Metrics
+### 📈 GitHub Stats
 
-<p align="center"><img src="./metrics.svg" alt="metrics"/></p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/drader/github-stats/master/generated/overview.svg" alt="overview"/>
+  <img width="49%" src="https://raw.githubusercontent.com/drader/github-stats/master/generated/languages.svg" alt="languages"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drader&layout=compact&hide_border=true&langs_count=10" alt="top languages"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drader&row=1&column=7&no-bg=true" alt="trophies"/></a>
