@@ -21,13 +21,13 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
 ### 🧰 Tech & Skills
 
 <p align="center">
-  <img height="48" alt="C, C++, Java, Python, MATLAB, Verilog, scikit-learn, OpenCV, Qt, AutoCAD, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab,verilog,sklearn,opencv,qt,autocad,arduino,raspberrypi,linux,bash,git,docker,latex&perline=17"/>
+  <img height="48" alt="C, C++, Java, Python, MATLAB, Verilog, scikit-learn, TensorFlow, PyTorch, OpenCV, Qt, AutoCAD, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab,verilog,sklearn,tensorflow,pytorch,opencv,qt,autocad,arduino,raspberrypi,linux,bash,git,docker,latex&perline=19"/>
 </p>
 
 | Category | Technologies |
 |---|---|
 | **Languages** | C · C++ · Java · Python · MATLAB · Verilog |
-| **Scientific Computing & Data** | NumPy · pandas · SciPy · scikit-learn · Matplotlib · OpenCV · Jupyter |
+| **Scientific Computing & Data** | NumPy · pandas · SciPy · scikit-learn · TensorFlow · PyTorch · Matplotlib · OpenCV · Jupyter |
 | **Hardware & EDA** | Altium Designer · KiCad · AutoCAD · Arduino · Raspberry Pi · LabVIEW · Xilinx FPGA |
 | **Simulation & Modeling** | MATLAB/Simulink · LTspice · Sentaurus TCAD |
 | **Tools & Environment** | Linux · Bash · Git · Docker · LaTeX · Qt |
