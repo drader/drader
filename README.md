@@ -24,45 +24,17 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
 
 ### 🧰 Tech Stack
 
-**Languages**
+<p align="center">
+  <img height="50" alt="C, C++, Java, Python, scikit-learn, Qt, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,sklearn,qt,arduino,raspberrypi,linux,bash,git,docker,latex"/>
+</p>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+**Skills**
 
-**Scientific Computing & Data**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Hardware & EDA**
-
-![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
-
-**Simulation & Modeling**
-
-![Simulink](https://img.shields.io/badge/Simulink-FF6F00?style=flat&logo=mathworks&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-9B1B30?style=flat&logo=analogdevices&logoColor=white)
-![TCAD](https://img.shields.io/badge/Sentaurus_TCAD-2A2A2A?style=flat&logo=synopsys&logoColor=white)
-
-**Tools & Environment**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+- **Languages:** C, C++, Java, Python, MATLAB
+- **Scientific Computing & Data:** NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter
+- **Hardware & EDA:** Altium Designer, KiCad, Arduino, Raspberry Pi, LabVIEW
+- **Simulation & Modeling:** Simulink, LTspice, Sentaurus TCAD
+- **Tools & Environment:** Linux, Bash, Git, Docker, LaTeX, Qt
 
 ### 📈 GitHub Stats
 
