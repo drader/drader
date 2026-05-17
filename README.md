@@ -39,6 +39,20 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
   <img width="49%" src="https://raw.githubusercontent.com/drader/github-stats/master/generated/languages.svg" alt="languages"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/userstats-dark.svg" />
+    <img alt="GitHub statistics summary" src="./images/userstats-light.svg" width="60%" />
+  </picture>
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drader/drader/output/github-snake-dark.svg" />
+  <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/drader/drader/output/github-snake.svg" />
+</picture>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=drader&label=Profile%20views&color=0e75b6&style=flat" alt="views"/></p>
 
 <p align="center"><b>⚡ My motto:</b> <i>"Bees don't waste time trying to explain to flies that honey is better than shit."</i></p>
