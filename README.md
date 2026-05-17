@@ -25,14 +25,14 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img height="50" alt="C, C++, Java, Python, MATLAB, scikit-learn, Qt, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab,sklearn,qt,arduino,raspberrypi,linux,bash,git,docker,latex"/>
+  <img height="50" alt="C, C++, Java, Python, MATLAB, Verilog, scikit-learn, OpenCV, Qt, AutoCAD, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab,verilog,sklearn,opencv,qt,autocad,arduino,raspberrypi,linux,bash,git,docker,latex"/>
 </p>
 
 **Skills**
 
-- **Languages:** C, C++, Java, Python, MATLAB
-- **Scientific Computing & Data:** NumPy, pandas, SciPy, scikit-learn, Matplotlib, Jupyter
-- **Hardware & EDA:** Altium Designer, KiCad, Arduino, Raspberry Pi, LabVIEW
+- **Languages:** C, C++, Java, Python, MATLAB, Verilog
+- **Scientific Computing & Data:** NumPy, pandas, SciPy, scikit-learn, Matplotlib, OpenCV, Jupyter
+- **Hardware & EDA:** Altium Designer, KiCad, AutoCAD, Arduino, Raspberry Pi, LabVIEW
 - **Simulation & Modeling:** Simulink, LTspice, Sentaurus TCAD
 - **Tools & Environment:** Linux, Bash, Git, Docker, LaTeX, Qt
 
