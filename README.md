@@ -15,26 +15,22 @@
 
 PhD work on **conductive nanofiber coatings for neural microelectrode arrays (MEA)** — dual-use electrical + optical electrode materials (PEDOT:PSS, carbon nanomaterials, electrospun scaffolds) for low-impedance neural recording and optical microscopy compatibility.
 
-- 🧪 **Domains:** Nanoelectronics · Quantum dot synthesis & characterization · Neural interfaces
-- 🛠️ **Hardware:** Altium · Xilinx FPGAs · µC/µP design
-- 💻 **Software:** C · Java · Python
-- 📊 **Simulation & modeling:** MATLAB/Simulink · LTspice · TCAD · AutoCAD
-- 👯 Open to collaboration on **simulation, modeling & scientific data visualization**
-- 📌 Public projects below — for private/research repos, feel free to reach out.
+🧪 **Domains:** Nanoelectronics · Quantum dot synthesis & characterization · Neural interfaces<br/>
+👯 Open to collaboration on simulation, modeling & scientific data visualization · 📌 Private/research repos on request
 
-### 🧰 Tech Stack
+### 🧰 Tech & Skills
 
 <p align="center">
-  <img height="50" alt="C, C++, Java, Python, MATLAB, Verilog, scikit-learn, OpenCV, Qt, AutoCAD, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab,verilog,sklearn,opencv,qt,autocad,arduino,raspberrypi,linux,bash,git,docker,latex"/>
+  <img height="48" alt="C, C++, Java, Python, MATLAB, Verilog, scikit-learn, OpenCV, Qt, AutoCAD, Arduino, Raspberry Pi, Linux, Bash, Git, Docker, LaTeX" src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab,verilog,sklearn,opencv,qt,autocad,arduino,raspberrypi,linux,bash,git,docker,latex&perline=17"/>
 </p>
 
-**Skills**
-
-- **Languages:** C, C++, Java, Python, MATLAB, Verilog
-- **Scientific Computing & Data:** NumPy, pandas, SciPy, scikit-learn, Matplotlib, OpenCV, Jupyter
-- **Hardware & EDA:** Altium Designer, KiCad, AutoCAD, Arduino, Raspberry Pi, LabVIEW
-- **Simulation & Modeling:** Simulink, LTspice, Sentaurus TCAD
-- **Tools & Environment:** Linux, Bash, Git, Docker, LaTeX, Qt
+| Category | Technologies |
+|---|---|
+| **Languages** | C · C++ · Java · Python · MATLAB · Verilog |
+| **Scientific Computing & Data** | NumPy · pandas · SciPy · scikit-learn · Matplotlib · OpenCV · Jupyter |
+| **Hardware & EDA** | Altium Designer · KiCad · AutoCAD · Arduino · Raspberry Pi · LabVIEW · Xilinx FPGA |
+| **Simulation & Modeling** | MATLAB/Simulink · LTspice · Sentaurus TCAD |
+| **Tools & Environment** | Linux · Bash · Git · Docker · LaTeX · Qt |
 
 ### 📈 GitHub Stats
 
