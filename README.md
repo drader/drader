@@ -39,13 +39,6 @@ PhD work on **conductive nanofiber coatings for neural microelectrode arrays (ME
   <img width="49%" src="https://raw.githubusercontent.com/drader/github-stats/master/generated/languages.svg" alt="languages"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/userstats-dark.svg" />
-    <img alt="GitHub statistics summary" src="./images/userstats-light.svg" width="60%" />
-  </picture>
-</p>
-
 ### 🐍 Contribution Snake
 
 <picture>
